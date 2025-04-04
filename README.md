@@ -2,14 +2,14 @@
 
 ## Grupo, nombre y legajo de integrantes
 
-- Nombre del grupo: **Completar**
+- Nombre del grupo: **VS**
 
 Integrantes:
-- Legajo: **Completar** 
-- Nombre: **Completar**
+- Legajo: **214.087-1** 
+- Nombre: **Valentina Romero**
 
-- Legajo: **Completar** 
-- Nombre: **Completar**
+- Legajo: **213.742-2** 
+- Nombre: **Santino Gerardi**
 
 
 ## Objetivos
