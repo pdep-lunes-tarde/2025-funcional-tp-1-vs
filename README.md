@@ -8,7 +8,7 @@ Integrantes:
 - Legajo: **214.087-1** 
 - Nombre: **Valentina Romero**
 
-- Legajo: **Completar** 
+- Legajo: **213.742-2** 
 - Nombre: **Santino Gerardi**
 
 
